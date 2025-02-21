@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  margin: 40px 0 40px 0;
+}
+
+#root{
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: rgb(211, 210, 210);
+  width: 25%;
+  height: 100px;
+  margin: 20px;
+}
+
+#root p{
+  font-size: 35px;
+  text-align: center;
+}
